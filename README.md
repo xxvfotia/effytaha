@@ -1,4 +1,4 @@
-# Hi, I’m Effy (Norhafizah) Taha 👋
+# Hi, I’m Effy
 
 **Michigan-based · Open to US-remote**  
 Founder of **Hello Hoku**, where I build practical tools for special education and care delivery. I also work on geospatial ML for conservation with transparent, evaluation-first workflows.
@@ -8,7 +8,8 @@ Founder of **Hello Hoku**, where I build practical tools for special education a
  **MSc in Computer Science** — dissertation on predicting orangutan poaching risk (Borneo) using Google Earth Engine + geospatial ML.
  **MSc in Developmental Psychology**
  **BSc in Psychology**
-- 🧩 Founded **Hello Hoku** — direct intervention for children with disabilities; shipping small tools that save clinician time.
+ 
+Founded **Hello Hoku** — direct intervention for children with disabilities; shipping small tools that save clinician time.
 
 
 ## Selected projects
