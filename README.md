@@ -6,9 +6,8 @@ Founder of **Hello Hoku**, where I build practical tools for special education a
 
 ## Highlights
  **MSc in Computer Science** — dissertation on predicting orangutan poaching risk (Borneo) using Google Earth Engine + geospatial ML.
- 
-## **MSc in Developmental Psychology - The relationship between linguistic skills and linguistic prediction**
-## **BSc in Psychology**
+ **MSc in Developmental Psychology - The relationship between linguistic skills and linguistic prediction**
+**BSc in Psychology**
  
 Founded **Hello Hoku** — direct intervention for children with disabilities; shipping small tools that save clinician time.
 
